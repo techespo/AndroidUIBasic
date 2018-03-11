@@ -10,17 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".LinearLayout">
+
+        </activity>
+        <activity android:name=".RelativeLayout" />
+        <activity android:name=".TableLayout" />
+        <activity android:name=".Scrollview" />
+        <activity android:name=".Gridlayout" />
+        <activity android:name=".ConstraintLayout" />
+        <activity android:name=".RegistrationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RelativeLayout" />
-        <activity android:name=".TableLayout" />
-        <activity android:name=".Scrollview" />
-        <activity android:name=".Gridlayout" />
-        <activity android:name=".ConstraintLayout"></activity>
     </application>
 
 </manifest>

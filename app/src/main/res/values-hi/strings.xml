@@ -3,6 +3,6 @@
 
     <!--LOGIN ACTIVITY-->
     <string name="email_hint">Email</string>
-    <string name="password_hint">password</string>
+    <string name="password_hint">पासवर्ड</string>
     <string name="signin">Sign In</string>
 </resources>
